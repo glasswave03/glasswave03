@@ -1,5 +1,5 @@
 # 💫 About Me:
-M22<br>Software developer student at University of Szeged<br>Currently working on SplitTheBill<br>Looking for help with music/pixelart<br>Learning React
+Software developer student at University of Szeged<br>Currently working on SplitTheBill<br>Looking for help with music/pixelart<br>Learning React
 
 
 ## 🌐 Socials:
