@@ -12,7 +12,7 @@ Software developer student at University of Szeged<br>Currently working on Split
 ![](https://nirzak-streak-stats.vercel.app/?user=glasswave03&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=glasswave03&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰 You can help me by Donating
+  ## 💰 If you'd like to support me:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kisskoa) 
 
   
